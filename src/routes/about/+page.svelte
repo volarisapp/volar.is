@@ -27,6 +27,7 @@
         <a href="/download" class="bg-transparent border border-pink-accent text-pink-accent font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-accent hover:text-white">Download Now</a>
       </div>
       <div class="text-lg" transition:fade={{ duration: 250 }}>
+        <a href="/contact" class="text-pink-accent font-bold hover:underline transition duration-300">Contact Us</a> or
         <a href="/" class="text-pink-accent font-bold hover:underline transition duration-300">Return to Home</a>
       </div>
     </div>

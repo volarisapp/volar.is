@@ -41,7 +41,7 @@
         </div>
       </div>
       <div class="text-lg" transition:fade={{ duration: 250 }}>
-        <a href="/about" class="text-pink-accent font-bold hover:underline transition duration-300">Return to About</a>
+        <a href="/about" class="text-pink-accent font-bold hover:underline transition duration-300">Return to about</a>
       </div>
     </div>
   </div>
