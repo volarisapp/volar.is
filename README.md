@@ -47,13 +47,13 @@ To set up the project locally, follow these steps:
 
 3. **Install dependencies:**
 
-    `npm install`
+    `npm install` or `pnpm install`
 
 ## Running the Project
 
 To run the project locally, use the following command:
 
-`npm run dev`
+`npm run dev` or `pnpm run dev`
 
 This will start a local development server. Open your browser and navigate to `http://localhost:5173` to see the website.
 
@@ -61,7 +61,7 @@ This will start a local development server. Open your browser and navigate to `h
 
 To build the project for production, use the following command:
 
-`npm run build`
+`npm run build` or `pnpm run build`
 
 This will create an optimized build of the project in the `public` directory. You can then deploy the contents of this directory to your web server or a static site hosting service.
 
