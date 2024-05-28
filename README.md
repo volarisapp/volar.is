@@ -1,6 +1,6 @@
 # Volaris Website
 
-This repository contains the source code for the Volaris website, a project built using Svelte and Tailwind CSS to provide a modern, responsive, and interactive user interface.
+This repository contains the source code for the Volaris website, a project built using Svelte and Tailwind CSS.
 
 ## Table of Contents
 
