@@ -37,17 +37,17 @@
       <p class="text-lg mb-6" transition:fade={{ duration: 250 }}>
         If you have any questions, feedback, or need support, feel free to join our Discord server or create an issue on our GitHub repository.
       </p>
-      <!-- add fitting logos -->
+      <!-- add fitting logos and discord link -->
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
         <a href="https://discord.com/invite/your-discord-server-link" class="button-primary" transition:fade={{ duration: 250 }}>
-          <img src="/discord-icon.png" alt="Discord Icon" class="button-icon">
+          <img alt="Discord Icon" class="button-icon">
           <div>
             <div>Join our Discord</div>
             <div class="button-description">Connect with our community and get instant support</div>
           </div>
         </a>
         <a href="https://github.com/volarisapp/volar.is/issues" class="button-primary" transition:fade={{ duration: 250 }}>
-          <img src="/github-icon.png" alt="GitHub Icon" class="button-icon">
+          <img alt="GitHub Icon" class="button-icon">
           <div>
             <div>Create a GitHub Issue</div>
             <div class="button-description">Report bugs or suggest features directly on GitHub</div>
