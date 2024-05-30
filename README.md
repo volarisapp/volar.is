@@ -63,7 +63,7 @@ To build the project for production, use the following command:
 
 `npm run build` or `pnpm run build`
 
-This will create an optimized build of the project in the `public` directory. You can then deploy the contents of this directory to your web server or a static site hosting service.
+This will create an optimized build of the project in the `build` directory. You can then deploy the contents of this directory to your web server or a static site hosting service.
 
 ## Contributing
 
