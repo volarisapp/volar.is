@@ -28,6 +28,12 @@
   }
 </style>
 
+<svelte:head>
+  <title>Leo Hanney - Volaris</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</svelte:head>
+
 <div class="background-animation" transition:fade={{ duration: 250 }}></div>
   <div class="relative py-8" transition:fade={{ duration: 250 }}>
     <div class="container mx-auto relative z-10">

@@ -3,6 +3,12 @@
   import '$lib/global.css';
 </script>
 
+<svelte:head>
+  <title>Leo Hanney - Volaris</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</svelte:head>
+
 <div class="min-h-screen flex items-center justify-center bg-gray-900 text-white">
   <div class="py-8 bg-gray-800 rounded-lg shadow-lg p-10 text-center hover:shadow-xl transition duration-300" transition:fade={{ duration: 250 }}>
     <h1 class="text-4xl font-bold mb-8" transition:fade={{ duration: 250 }}>About Volaris</h1>
